@@ -1,0 +1,23 @@
+{
+  "name": "js-git",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/JoaoAntonioo87/js-git#readme",
+  "bugs": {
+    "url": "https://github.com/JoaoAntonioo87/js-git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoAntonioo87/js-git.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
